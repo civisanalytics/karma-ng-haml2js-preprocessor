@@ -35,7 +35,7 @@ module.exports = function(config) {
       '**/*.haml'
     ],
 
-    ngHaml2JsPreprocessor: {
+    ngHaml2jsPreprocessor: {
       // strip this from the file path
       stripPrefix: 'public/',
       // prepend this to the
