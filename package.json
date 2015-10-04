@@ -1,6 +1,6 @@
 {
   "name": "karma-ng-haml2js-preprocessor",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A Karma plugin. Compile AngularJS templates written in HAML to JavaScript on the fly.",
   "main": "lib/index.js",
   "scripts": {
