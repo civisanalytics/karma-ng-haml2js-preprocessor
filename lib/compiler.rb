@@ -1,5 +1,4 @@
 require 'haml'
-require 'haml/exec'
 
 # Don't buffer any output
 $stdout.sync = true
