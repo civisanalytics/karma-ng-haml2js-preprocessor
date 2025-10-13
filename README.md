@@ -1,3 +1,5 @@
+** _THIS REPO IS ARCHIVED AND NO LONGER MAINTAINED_ ** 
+
 # karma-ng-haml2js-preprocessor
 
 > Preprocessor for converting HAML files to [AngularJS](http://angularjs.org/) templates.
